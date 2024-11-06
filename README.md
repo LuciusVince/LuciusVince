@@ -1,16 +1,29 @@
-## Hi there 👋
+Guten Tag,<br>
+Herzlich Willkommen auf meiner GITHUB-Seite.
 
-<!--
-**LuciusVince/LuciusVince** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🚧🚧🚧🚧🚧 ACHTUNG! MIGRATION VON "Github.com/TheRealVince" zu "Github.com/LuciusVince" 🚧🚧🚧🚧🚧 
 
-Here are some ideas to get you started:
+## Über mich:
+Ich bin der Typ den Sie rufen, wenn es schwer wird.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Einige Beispiele:
+* Reverse-Engineering von Binär-Dateien um eigene Reader zu entwickeln (z.B. BugFixes für Microsofts OLE-DB-Treiber)
+* Implementierungen von Algorithmen z.B. Base64
+* Migrierung von Legacy-Systemen auf modernere Systeme
+
+Ursprünglich komme ich aus dem Bereich der Desktop-Entwicklung mit C#<br>
+und einfach gebauten Webanwendungen für W/L/XAMPP-Stacks.
+
+## Eigene Projekte
+[Bitte hier klicken, um zum Portfolio zu gelangen](https://LuciusVince.github.io)
+
+
+## FAQ:
+#### Warum sehe ich keine PUBLIC Repositories?<br>
+Weil sich in vielen Repositories bezahlte API-Keys, persönliche Einstellungen und<br>
+Zugangsdaten wie Benutzernamen, Passwörter und E-Mail-Adressen befinden.<br>
+Daher habe ich mich vorsichtshalber entschieden alle Repositories auf PRIVATE zu setzen.
+
+#### Wo finde ich die neusten Builds?<br>
+In meinem [Portfolio](https://LuciusVince.github.io).<br>
+Achten Sie dort auf die Spalte "Download".
